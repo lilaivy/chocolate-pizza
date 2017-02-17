@@ -1,0 +1,63 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+#header-container {
+    border-bottom: 20px solid lightgray;
+    padding: 20px 0px;
+    margin: 0px 170px;
+}
+#header-logo {
+    display: inline-block;
+}
+
+.logo {
+    display: inline-block;
+    
+}
+
+.logo h2 {
+    margin-bottom: -10px;
+}
+
+#div-icon-container {
+    display: inline-block;
+    float: right;
+    margin-top: 30px;
+}
+
+#ul-icon-container {
+    display: inline-block;
+}
+
+.social-media {
+    text-decoration: none;
+    display: inline-block;
+}
+
+#main-container {
+    padding: 30px 170px;
+}
+
+#hero-img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+footer {
+    border-top: 20px solid lightgray;
+    margin: 0px 170px;
+}
+
+#footer-1 {
+    display: inline-block;
+    margin-bottom: 60px;
+}
+
+#vanessa-pic {
+    display: inline-block;
+}
+
+#vanessa-container {
+    display: inline-block;
+}
